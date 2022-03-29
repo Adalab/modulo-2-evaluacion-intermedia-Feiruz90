@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  border-width: 3px;
+  border-style: solid;
+  border-color: aquamarine;
+}
+
+.jugar {
+  background-color: aquamarine;
+  color: white;
+}
